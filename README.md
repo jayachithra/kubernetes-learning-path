@@ -1,2 +1,2 @@
-# kubernetes-workshop
-Repo to practice kubernetes
+# kubernetes-learning-path
+This repo contains all the trainings and study resources for kubernetes
